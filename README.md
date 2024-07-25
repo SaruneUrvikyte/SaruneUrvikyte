@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-### - I'm 25 years old Data Analytics Student at Turing College
+### - I'm 26 years old Data Analyst at IKI Lietuva
 #### - Ex Oracle Developer (SQL, PL/SQL)
-#### - Seeking Opportunities to Break into Data Analytics!
 
 ### - Education :
 ✨ Data Analytics at Turing College<br>
